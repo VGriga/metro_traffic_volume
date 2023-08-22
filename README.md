@@ -17,8 +17,8 @@ traffic_volume         |Numeric        |Hourly I-94 ATR 301 reported westbound t
 ## 🤖Models used best score🤖
 | Model | features selection | R2 |
 | --- | --- | --- |
-Decision Tree Regressor | False | 0.930
 Random Forest Regressor | False | 0.946
+Decision Tree Regressor | False | 0.930
 K Nearest Neighbors Regressor | Lasso | 0.919
 Lasso | Lasso | 0.835
 Ridge | Lasso | 0.835
